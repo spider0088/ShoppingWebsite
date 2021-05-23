@@ -30,23 +30,3 @@ body{
    
     
 }
-
-.btn{
-    border: 2px solid #0d70ad;
-    background-color: #0d70ad;
-    
-    width: 45%;
-    height: 45;
-    color: white;
-    padding: 5px;
-    cursor: pointer;
-    font-size: 18px;
-    margin: 8px 0;
-    border-radius:35px;
-    
-  
- 
-   
-   
-    
-}
